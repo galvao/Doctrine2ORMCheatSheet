@@ -1,7 +1,12 @@
 Doctrine2ORMCheatSheet
 ======================
 
-Basic Doctrine2 Mapping (Annotations) Cheat Sheet in ODF Text Document and PDF formats.
+Basic Doctrine2 Mapping (Annotations) Cheat Sheet in SVG, EPS and PDF formats.
+Switched to SVG for easier, more freedom to design.
+
+EPS is an intermediary step for generating the PDF file.
+
+Margins are 0.5" and should be enough to all printers.
 
 ToDo
 ----
